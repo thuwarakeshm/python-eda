@@ -25,4 +25,6 @@ This project wraps the python exploratory data analysis tool sweetviz in a comma
 ## Python EDA Illustration
 The creation of this EDA is explained in the Towards data science post [Python Exploratory Data Analysis](https://towardsdatascience.com/how-to-do-a-ton-of-analysis-in-the-blink-of-an-eye-16fa9affce06)
 
+Packaging and distribution of this CLI EDA tool using Poetry, is explained in [You Are Not Still Using Virtualenv, Are You?](https://towardsdatascience.com/poetry-to-complement-virtualenv-44088cc78fd1)
+
 For more interesting data science tactics please visit my [Medium profile](https://thuwarakesh.medium.com). 
